@@ -1,5 +1,5 @@
 # Fine-Tune-VideoMAE on INCLUDE ISL Dataset
-# Video Classification using VideoMAE
+## Video Classification using VideoMAE
 
 This project demonstrates how to perform video classification using the VideoMAE model from the Hugging Face Transformers library. The notebook covers data loading, preprocessing, model definition, training, and evaluation.
 
